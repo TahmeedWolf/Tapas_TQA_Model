@@ -1,0 +1,22 @@
+--------------------   PRO   ------------------------
+
+TAPAS (and similar table QA models) are great at:
+
+
+Answering simple, fact-based questions (e.g. "What is Lex's department?")
+
+Summarizing columns or extracting direct matches
+
+
+--------------------   CON   ------------------------
+
+But they struggle badly with:
+
+
+Comparisons ("Who earns more than X?")
+
+Sorting/ranking ("Top 5 earners?")
+
+Aggregations ("Average salary in Sales?")
+
+Logic-based queries ("List all employees older than 30 in HR")
